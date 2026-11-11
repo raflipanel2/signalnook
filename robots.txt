@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://signalnook.vercel.app/sitemap.xml
